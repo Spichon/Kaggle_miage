@@ -106,8 +106,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-
 # image
 *.tif
 *.tiff
-
